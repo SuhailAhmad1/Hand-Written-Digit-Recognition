@@ -1,5 +1,5 @@
 # Hand Written Digit Recognition
-Either Download the dataset locally or fetch it online (In This project we have used the data uploaded locally but i am not able to upload that data on github, so please either download or use fetch call.)  
+Note : Either Download the MINIST dataset locally or fetch it online (In This project we have used the data uploaded locally but i am not able to upload that data on github, so please either download or use fetch call.)  
 ## Steps to run this project
 1. First install all the files in requirement.txt as `pip install -r requirement.txt`
 2. Then Run the pyhton app.py
