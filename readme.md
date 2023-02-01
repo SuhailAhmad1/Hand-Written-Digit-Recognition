@@ -11,5 +11,7 @@ And try to test our project
 Have Fun....
 
 ## Examples/Screenshots of the project
-https://github.com/SuhailAhmad1/Hand-Written-Digit-Recognition/blob/main/screenshots/Screenshot%20(24).png
-https://github.com/SuhailAhmad1/Hand-Written-Digit-Recognition/blob/main/screenshots/Screenshot%20(25).png
+![Screenshot (24)](https://user-images.githubusercontent.com/89300429/215981721-3d95f0b8-e053-4a4f-a7e9-68e314e8fec8.png)
+
+
+![Screenshot (25)](https://user-images.githubusercontent.com/89300429/215981747-95d5876b-576d-4957-a7c4-39576bf5661b.png)
